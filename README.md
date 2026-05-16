@@ -50,6 +50,7 @@ generalist baseline.
 |---|---|
 | [`paper.pdf`](paper.pdf) | GAIW 2026 paper |
 | [`poster.pdf`](poster.pdf) | GAIW 2026 poster (A0) |
+| `slides.pdf` | GAIW 2026 presentation slides *(to be added)* |
 
 ## Citation
 
